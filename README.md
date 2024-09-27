@@ -13,5 +13,5 @@
 * Запасной игрок
 * Футбольный тренер
   ![Football_in_Bloomington,_Indiana,_1995](https://github.com/user-attachments/assets/aa602077-dd9d-49af-90d2-c31128b66892)
-Число (ПИ)[PI.md]:
+Число [ПИ](PI.md)
 `print`
